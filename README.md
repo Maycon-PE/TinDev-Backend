@@ -1,6 +1,6 @@
 # TinDev-Backend
-Done with the help by Diego Fernandes of Rocketseat. OmniStack 8.0 Project.
+Feito com a ajuda de Diego Fernandes da Rocketseat. *Semana OmniStack 8.0*.
 
-## Frontend project (important)*
-[repository](https://github.com/Maycon-PE/TinDev-Frontend)
+## Projeto cliente-side
+- [Repositório](https://github.com/Maycon-PE/TinDev-Frontend).
 
