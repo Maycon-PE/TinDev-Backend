@@ -2,4 +2,8 @@
 node_modules/
 
 # credentials
-src/services/database/credentials/*.json
+.env
+
+
+# logs
+*.log*

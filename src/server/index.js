@@ -1,3 +1,4 @@
+require('dotenv').config()
 const express = require('express')
 const cors = require('cors')
 
@@ -14,7 +15,6 @@ const connectedUsers = {
 }
 
 io.on('connection', socket => {
-	console.log('ID :', socket.id)
 	const { user } = socket.handshake.query
 
 	connectedUsers[user] = socket.id
